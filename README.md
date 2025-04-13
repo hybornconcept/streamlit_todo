@@ -147,4 +147,4 @@ Project Link: [https://github.com/yourusername/task-manager-pro](https://github.
 
 ---
 
-<p align="center">Made with ❤️ by [Your Name]</p>
+<p align="center">Made with ❤️ by HYBORN</p>
