@@ -1,0 +1,6 @@
+[server]
+runOnSave = true
+
+[theme]
+primaryColor = "#174C4F"
+baseRadius = "1rem" 
